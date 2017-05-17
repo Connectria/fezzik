@@ -1,6 +1,5 @@
 # Fezzik
 This Angular 2 application has several issues with it.  Please fork this repo, make any bug fixes that allow it to function properly as well as any of the requirements that were given to you.  When you are finished, please commit and push your changes up to your fork and open a pull request to merge your changes in.
-=======
 
 ## Development server
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
